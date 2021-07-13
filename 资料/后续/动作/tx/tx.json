@@ -1,0 +1,132 @@
+{
+"skeleton": {
+	"hash": "a4+go8/jH4j5C0IfneFruWeIjrY",
+	"spine": "3.8.99",
+	"x": -35,
+	"y": -35,
+	"width": 70,
+	"height": 70,
+	"images": "./texture/tx/",
+	"audio": "E:/重要，不要删/48小时"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 206.51, "rotation": 90 }
+],
+"slots": [
+	{ "name": "1", "bone": "bone", "attachment": "1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1": { "rotation": -90, "width": 70, "height": 70 },
+				"2": { "rotation": -90, "width": 131, "height": 131 },
+				"3": { "rotation": -90, "width": 214, "height": 214 },
+				"4": { "rotation": -90, "width": 263, "height": 263 },
+				"d1": { "rotation": -90, "width": 440, "height": 440 },
+				"d2": { "rotation": -90, "width": 440, "height": 440 },
+				"d3": { "rotation": -90, "width": 440, "height": 440 },
+				"d4": { "rotation": -90, "width": 440, "height": 440 },
+				"d5": { "rotation": -90, "width": 440, "height": 440 },
+				"d6": { "rotation": -90, "width": 440, "height": 440 },
+				"d7": { "rotation": -90, "width": 440, "height": 440 },
+				"fly1": { "rotation": -90, "width": 100, "height": 100 },
+				"fly2": { "rotation": -90, "width": 100, "height": 100 },
+				"fly3": { "rotation": -90, "width": 100, "height": 100 },
+				"xian1": { "rotation": -90, "width": 173, "height": 282 },
+				"xian2": { "rotation": -90, "width": 241, "height": 330 },
+				"xian3": { "rotation": -90, "width": 262, "height": 346 }
+			}
+		}
+	}
+],
+"animations": {
+	"daoju": {
+		"slots": {
+			"1": {
+				"color": [
+					{ "time": 0.3, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "2" },
+					{ "time": 0.2, "name": "3" },
+					{ "time": 0.3, "name": "4" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0.3 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 }
+				]
+			}
+		}
+	},
+	"fly": {
+		"slots": {
+			"1": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.2667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "fly1" },
+					{ "time": 0.1, "name": "fly2" },
+					{ "time": 0.1667, "name": "fly3" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0.1667 },
+					{ "time": 0.2667, "x": 1.1, "y": 1.1 }
+				]
+			}
+		}
+	},
+	"tv": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "name": "d1" },
+					{ "time": 0.1, "name": "d2" },
+					{ "time": 0.2, "name": "d3" },
+					{ "time": 0.3, "name": "d4" },
+					{ "time": 0.4, "name": "d5" },
+					{ "time": 0.5, "name": "d6" },
+					{ "time": 0.6, "name": "d7" },
+					{ "time": 0.7, "name": "d1" }
+				]
+			}
+		}
+	},
+	"xian": {
+		"slots": {
+			"1": {
+				"color": [
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.3, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "xian1" },
+					{ "time": 0.1, "name": "xian2" },
+					{ "time": 0.2, "name": "xian3" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0.2 },
+					{ "time": 0.3, "x": 1.1, "y": 1.1 }
+				]
+			}
+		}
+	}
+}
+}

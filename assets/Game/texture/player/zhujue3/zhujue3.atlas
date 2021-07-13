@@ -1,0 +1,139 @@
+
+zhujue3.png
+size: 335,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 90, 37
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 2, 36
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 220, 24
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 220, 10
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 254, 2
+  size: 30, 5
+  orig: 30, 5
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 169, 39
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 2, 4
+  size: 104, 30
+  orig: 104, 30
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 108, 9
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+mout2
+  rotate: false
+  xy: 266, 10
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 282, 18
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 250, 9
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 279, 24
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: false
+  xy: 256, 24
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 108, 3
+  size: 144, 4
+  orig: 144, 4
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 169, 86
+  size: 132, 52
+  orig: 136, 56
+  offset: 2, 2
+  index: -1
+youjiao
+  rotate: true
+  xy: 299, 6
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 246, 42
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 303, 107
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 286, 42
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+duihua.png
+size: 150,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 97, 106
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 97, 68
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 78, 7
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 64
+  size: 103, 93
+  orig: 103, 93
+  offset: 0, 0
+  index: -1

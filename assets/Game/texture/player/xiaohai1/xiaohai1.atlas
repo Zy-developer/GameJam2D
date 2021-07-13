@@ -1,0 +1,139 @@
+
+xiaohai1.png
+size: 334,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 37
+  size: 78, 102
+  orig: 78, 102
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 82, 37
+  size: 77, 102
+  orig: 77, 102
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 193, 37
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 289, 13
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 161, 40
+  size: 30, 5
+  orig: 30, 5
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 161, 47
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 2, 5
+  size: 104, 30
+  orig: 104, 30
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 108, 9
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+mout2
+  rotate: true
+  xy: 295, 125
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 213, 41
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 319, 4
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 303, 2
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: true
+  xy: 303, 20
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 108, 3
+  size: 144, 4
+  orig: 144, 4
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 161, 87
+  size: 132, 52
+  orig: 136, 56
+  offset: 2, 2
+  index: -1
+youjiao
+  rotate: false
+  xy: 253, 9
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 232, 43
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 220, 9
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 273, 43
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1

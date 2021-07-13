@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "71da84ca-5aeb-48cf-8783-f75c75d4ed28",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 671,
+  "height": 113,
+  "platformSettings": {},
+  "subMetas": {
+    "ic_game_flee_txt": {
+      "ver": "1.0.4",
+      "uuid": "0bfff3a1-6e53-428f-8b53-d6d83e65fa23",
+      "rawTextureUuid": "71da84ca-5aeb-48cf-8783-f75c75d4ed28",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 671,
+      "height": 113,
+      "rawWidth": 671,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

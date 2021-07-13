@@ -1,0 +1,62 @@
+
+pingxing.png
+size: 1926,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 278
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+ball
+  rotate: true
+  xy: 1410, 2
+  size: 401, 441
+  orig: 402, 441
+  offset: 0, 0
+  index: -1
+cartoonist
+  rotate: true
+  xy: 951, 425
+  size: 361, 501
+  orig: 381, 501
+  offset: 3, 0
+  index: -1
+dark
+  rotate: true
+  xy: 457, 383
+  size: 403, 492
+  orig: 403, 492
+  offset: 0, 0
+  index: -1
+doctor
+  rotate: true
+  xy: 1454, 405
+  size: 381, 470
+  orig: 381, 475
+  offset: 0, 4
+  index: -1
+ganme
+  rotate: true
+  xy: 951, 4
+  size: 419, 457
+  orig: 421, 468
+  offset: 1, 11
+  index: -1
+rock
+  rotate: true
+  xy: 457, 34
+  size: 347, 462
+  orig: 348, 470
+  offset: 0, 6
+  index: -1
+work
+  rotate: false
+  xy: 2, 331
+  size: 453, 455
+  orig: 453, 460
+  offset: 0, 4
+  index: -1
