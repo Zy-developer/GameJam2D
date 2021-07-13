@@ -21,10 +21,11 @@ Game Jam是一种限定时间与条件的游戏极限开发活动，专注于游
 ![演示](./资料/美术设计/演示.jpg)
 
 - [GameJam游戏便当-熊孩子计划.](https://www.youxibd.com/v2/gamejam/cgj2021/works/1189)
-- [游戏试玩-熊孩子计划.](http://htmlpreview.github.io/preview/index.html)
+- [视频预览-熊孩子计划.](./资料/预览视频.mp4)
+- [游戏试玩-熊孩子计划.](https://zy-developer.github.io/GameJam2D/)
 
 <video id="video" controls="" preload="none" poster="./资料/美术设计/首页.png">
-    <source id="mp4" src="./资料/预览视频.mp4" type="video/mp4">
+    <source id="mp4" src="" type="video/mp4">
 </video>
 
 | 位置 | 姓名 |
