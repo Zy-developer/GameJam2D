@@ -43,7 +43,8 @@ export default class GameManager extends cc.Component {
     private _resultPanel: cc.Node = null;
 
     onLoad () {
-        if (cc.sys.isBrowser && cc.sys.platform === cc.sys.DESKTOP_BROWSER) {
+        console.log(`isBrowser: ${cc.sys.isBrowser}, isNative: ${cc.sys.isNative}, DESKTOP_BROWSER: ${cc.sys.platform === cc.sys.DESKTOP_BROWSER}`);
+        if (cc.sys.isBrowser && !cc.sys.isNative && cc.sys.platform === cc.sys.DESKTOP_BROWSER) {
             cc.view.enableAutoFullScreen(false);
         }
         this.onOpenPhysicsManager();
