@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/Cocos_Creator-v2.4.4-FF69B4.svg?style=plastic)](https://www.cocos.com/creator)
 [![Languages](https://img.shields.io/badge/language-TypeScript-FF69B4.svg?style=plastic)](#)
 
-![banner](./资料/2021_CiGA_GameJam.png)
+![banner](./images/2021_CiGA_GameJam.png)
 
 - 时间: 2021-07-09 ~ 2021-07-11 48小时极限游戏开发.
 
@@ -14,11 +14,11 @@ Game Jam是一种限定时间与条件的游戏极限开发活动，专注于游
 
 #### 主题
 
-![主题](./资料/主题.png)
+![主题](./images/theme.png)
 
 ## 熊孩子计划.
 
-![演示](./资料/美术设计/演示.jpg)
+![演示](./images/show.jpg)
 
 - [GameJam游戏便当-熊孩子计划.](https://www.youxibd.com/v2/gamejam/cgj2021/works/1189)
 - [游戏试玩-熊孩子计划.](https://zy-developer.github.io/GameJam2D/)
